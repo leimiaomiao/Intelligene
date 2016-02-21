@@ -1,9 +1,12 @@
-from flask import render_template, request, redirect, url_for
+from flask import render_template
 from application import app
 
 
 @app.route('/', methods=['GET'])
-def index():
-    return render_template("index.html")
+def homepage():
+    return render_template("homepage2.html")
 
 
+@app.route('/test', methods=['GET'])
+def test():
+    return render_template("homepage.html")
