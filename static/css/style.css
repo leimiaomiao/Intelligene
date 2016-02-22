@@ -1,0 +1,338 @@
+body {
+    margin: 0px;
+    font-family: "Helvetica Neue";
+    font-weight: normal;
+    background: #fff;
+    height: 100%;
+    width: 100%;
+    overflow: visible;
+}
+
+.sidebar {
+    width: 20px;
+    height: 100px;
+    position: fixed;
+    left: 92%;
+    top: 50%;
+    margin-top: -50px;
+    display: table;
+    overflow: hidden;
+    z-index: 99;
+}
+
+.sidebar li {
+    float: left;
+    list-style: none;
+}
+
+.sidebar li a {
+    display: block;
+    width: 10px;
+    height: 10px;
+    color: #fff;
+    border: 1px solid gray;
+    border-radius: 50%;
+    transition: all 0.3s ease-in-out;
+    background-color: rgba(100, 100, 100, 0.5);
+    margin-top: 10px;
+}
+
+.sidebar li a:hover, .sidebar li a.active {
+    background-color: rgba(100, 100, 100, 1);
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.nav {
+    z-index: auto;
+    position: relative;
+    top: auto;
+    border-color: transparent;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.nav-fixed {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 99;
+}
+
+.main-nav {
+    list-style: none;
+    margin-bottom: 0px;
+}
+
+.main-nav li {
+    float: left;
+    display: inline;
+    width: 150px;
+}
+
+.main-nav li a {
+    cursor: pointer;
+    display: inline-block;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 20px;
+    margin: 17px 20px;
+    transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+}
+
+.main-nav li a:hover, .main-nav li a.active {
+    color: #1565c0;
+    outline: 0px !important;
+    font-weight: bolder;
+    cursor: pointer;
+    /*
+    border-bottom: 2px whitesmoke solid;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    -webkit-transition-delay: 0s;
+    -o-transition-delay: 0s;
+    */
+}
+
+.feature-block {
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.feature-header {
+    color: whitesmoke;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 50px;
+}
+
+.wrapper {
+    height: 100vh;
+    width: 100%;
+}
+
+.wrapper:before {
+    content: ' ';
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.wrapper-child{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header {
+    background: url("../img/background5.png") no-repeat fixed;
+    background-size: cover;
+}
+
+.feature-header h1:before {
+    content: '';
+    width: 130px;
+    height: 2px;
+    left: 3px;
+    top: 15px;
+    background: rgb(62, 115, 171);
+    position: absolute;
+}
+
+.logo {
+    width: 400px;
+    height: auto;
+    position: absolute;
+    margin-left: -40px;
+    margin-top: -85px;
+}
+
+/*
+.feature-header .description:before {
+    content: '';
+    width: 320px;
+    height: 2px;
+    left: 0px;
+    top: 10px;
+    background: rgb(62, 115, 171);
+    position: absolute;
+}
+*/
+
+.feature-header .description p {
+    font-family: "Avenir Next Ultra Light";
+    font-size: 22px;
+    color: whitesmoke;
+    position: relative;
+    padding-top: 10px;
+}
+
+.feature-header .description2 p {
+    font-family: "Helvetica Neue";
+    font-size: 30px;
+    font-weight: 100;
+    color: rgb(128, 132, 143);
+    margin-top: 50px;
+}
+
+.story .img-circle {
+    border-radius: 50%;
+}
+
+.btn {
+    font-family: "Avenir Next Ultra Light";
+}
+
+.btn-red {
+    width: 200px;
+    height: 40px;
+    background-color: rgb(153, 34, 120);
+    color: white;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-red:hover {
+    background-color: mediumvioletred;
+    color: white;
+}
+
+.btn-blue {
+    width: 200px;
+    height: 40px;
+    background-color: rgb(3, 54, 128);
+    color: white;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-blue:hover {
+    color: white;
+    background-color: #1565c0;
+}
+
+.feature-header h1 {
+    font-size: 54px;
+    font-weight: bolder;
+}
+
+.introduction, .search {
+    color: gray;
+}
+
+.introduction {
+    font-family: "Avenir Next Ultra Light";
+    padding-top: 60px;
+    color: rgb(190, 190, 190);
+    padding-bottom: 60px;
+}
+
+.introduction h3 {
+    color: white;
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+.introduction p {
+    font-family: "Helvetica Neue";
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 40px;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.relevance {
+    color: gray;
+    padding-top: 90px;
+}
+
+.relevance h3 {
+    font-family: "Helvetica Neue";
+    font-size: 34px;
+    font-weight: 100;
+    color: rgb(127, 127, 127);
+    margin-top: 10px;
+}
+
+.relevance h2 {
+    font-family: "Avenir Next Ultra Light";
+    font-size: 44px;
+    font-weight: bolder;
+    color: rgb(89, 89, 89);
+}
+
+.relevance .description {
+    font-family: "Helvetica Neue";
+    line-height: 150%;
+    font-size: 30px;
+    color: rgb(89, 89, 89);
+    margin-top: 100px;
+    font-weight: 100;
+}
+
+.relevance .description p {
+    text-align: center;
+}
+
+.relevance .description .number {
+    font-size: 56px;
+    font-family: "Helvetica Neue";
+
+}
+
+footer {
+    padding-top: 30px;
+    height: 100px;
+}
+
+footer a {
+    color: #1565c0;
+}
+
+h3 {
+    font-size: 40px;
+    /*color: rgb(200, 64, 64);*/
+    color: mediumvioletred;
+}
+
+.white-lg {
+    background: white;
+}
+
+.red-lg {
+    /*background: rgb(200, 64, 64);*/
+    background: mediumvioletred;
+}
+
+.blue-lg {
+    background: rgb(0, 27, 81);
+}
+
+.gray-lg {
+    background: rgb(38, 38, 38);
+}
+
+.black-lg {
+    background-color: black;
+}
+
+.blue-text {
+    color: rgb(94, 200, 249);
+}
+
+.clearfix {
+    clear: both;
+}
