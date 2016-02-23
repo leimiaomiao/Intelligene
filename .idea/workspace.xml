@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f46c2b98-5c24-440f-bb45-2707b9ab400d" name="Default" comment="Part of version 3 is uploaded.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/album.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/background1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/background2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/background3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/background4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/background5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/big-data.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/blog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/img/bs-themes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/carousel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/img/components.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/dashboard.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/img/devices.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/equal-height-columns.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/img/expo-lyft.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/img/expo-newsweek.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/img/expo-riot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/img/expo-vogue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/grid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/home-banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/intro-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/jumbotron-narrow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/jumbotron.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/justified-nav.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/molecule.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/navbar-fixed.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/navbar-static.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/navbar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/non-responsive.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/offcanvas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/img/sass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/sign-in.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/starter-template.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/sticky-footer-navbar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/sticky-footer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/theme.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/.csscomb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/.hound.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/.scss-lint.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Intelligene.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/nuget/MyGet.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_ads.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_anchor.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_animation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_background-variant.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_booticon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_brand.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_breadcrumb.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_breakpoints.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_browser-bugs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_button-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_callouts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_cards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_center-block.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_clipboard-js.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_close.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_component-examples.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_custom-forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_examples.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_featured-sites.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_featurettes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_grid-framework.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_hover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_images.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_input-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_label.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_masthead.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_nav-divider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_navbar-align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_page-header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_pager.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_popover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_pulls.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_reset-filter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_reset-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_resize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_responsive-embed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_responsive-tests.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_skiplink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_syntax.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_tab-focus.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_table-row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/_team.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_text-emphasis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_text-hide.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/mixins/_text-truncate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_utilities-background.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_utilities-responsive.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_utilities-spacing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/getting-started/accessibility.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_includes/ads.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/album/album.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/visual/alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/alert.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/umd/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/umd/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/src/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/unit/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/alerts.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/js/vendor/anchor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/js/src/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/extend/approach.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/getting-started/best-practices.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/blog/blog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/bootstrap-flex.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/bootstrap-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/brand/bootstrap-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/brand/bootstrap-punchout.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/bootstrap-reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/brand/bootstrap-solid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/nuget/bootstrap.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/nuget/bootstrap.sass.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/scss/bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/about/brand.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/breadcrumb.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_plugins/bridge.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/browser-bugs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_data/browser-bugs.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/getting-started/browsers-devices.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/grunt/bs-commonjs-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_plugins/bugify.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/getting-started/build-tools.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/button-dropdown.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/button-group.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/visual/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/button.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/umd/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/umd/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/src/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/unit/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/buttons.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_plugins/callout.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/card.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/carousel/carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/visual/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/carousel.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/umd/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/umd/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/src/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/unit/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/carousel.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/grunt/change-version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/js/vendor/clipboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/content/code.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/visual/collapse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/collapse.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/umd/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/umd/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/src/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/unit/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/collapse.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/grunt/configBridge.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/getting-started/contents.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_data/core-team.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/cover/cover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/dashboard/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_layouts/docs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/css/docs.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/css/docs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/js/docs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/scss/docs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/getting-started/download.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/visual/dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/dropdown.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/umd/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/umd/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/src/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/unit/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/dropdowns.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/content/figures.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/getting-started/flexbox.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/forms.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/grid/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/layout/grid.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_includes/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_plugins/highlight_alt.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/about/history.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/js/vendor/holder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_layouts/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/homepage.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/homepage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/homepage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/homepage.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/homepage2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/homepage3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/extend/icon-fonts.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/js/ie-emulation-modes-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/js/ie10-viewport-bug-workaround.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/content/images.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/album/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/blog/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/carousel/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/cover/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/dashboard/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/grid/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/jumbotron/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/justified-nav/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/narrow-jumbotron/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/navbar/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/navbar-top/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/navbar-top-fixed/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/offcanvas/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/signin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/starter-template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/sticky-footer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/sticky-footer-navbar/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/tooltip-viewport/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/extend/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/input-group.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/getting-started/introduction.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/getting-started/javascript.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/js/vendor/jekyll-search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/js/vendor/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/vendor/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/jumbotron/jumbotron.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/jumbotron.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/justified-nav/justified-nav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/label.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/grunt/bs-sass-compile/libsass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/about/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/list-group.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_plugins/markdown-block.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/layout/media-object.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/migration.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/visual/modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/modal.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/umd/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/umd/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/src/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/unit/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/modal.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/narrow-jumbotron/narrow-jumbotron.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_includes/nav-docs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_includes/nav-home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_data/nav.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/navbar-top-fixed/navbar-top-fixed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/navbar-top/navbar-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/navbar/navbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/navbar.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/navs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/grunt/npm-shrinkwrap.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/offcanvas/offcanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/offcanvas/offcanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/getting-started/options.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/layout/overview.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_includes/page-headers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/pagination.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/unit/phantom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/visual/popover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/popover.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/umd/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/umd/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/src/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/unit/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/popovers.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/progress.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/vendor/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/vendor/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/content/reboot.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/layout/responsive-utilities.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/sache.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/grunt/bs-sass-compile/sass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/grunt/sauce_browsers.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/visual/scrollspy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/scrollspy.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/umd/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/umd/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/src/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/unit/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/scrollspy.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/search-form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/search.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_data/showcase.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/signin/signin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_layouts/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/starter-template/starter-template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/sticky-footer/sticky-footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/visual/tab.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/tab.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/umd/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/umd/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/src/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/unit/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/content/tables.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/about/team.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/assets/js/vendor/tether.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/vendor/tether.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/tooltip-viewport/tooltip-viewport.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/tooltip-viewport/tooltip-viewport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/visual/tooltip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/tooltip.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/umd/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/umd/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/src/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/tests/unit/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/tooltips.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/about/translations.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/_data/translations.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/content/typography.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/util.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/js/umd/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/dist/js/umd/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/dist/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/js/src/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/components/utilities.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="untitled.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Leimiaomiao$web_init.coverage" NAME="web_init Coverage Results" MODIFIED="1449986061947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MioMio" />
+    <SUITE FILE_PATH="coverage/Leimiaomiao$web_init__1_.coverage" NAME="web_init (1) Coverage Results" MODIFIED="1456203462401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyFirstFlask$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1445566993315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MyFirstFlask$untitled__1_.coverage" NAME="untitled (1) Coverage Results" MODIFIED="1449298610665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyFirstFlask" />
+    <SUITE FILE_PATH="coverage/MacroGene$web_init__1_.coverage" NAME="web_init (1) Coverage Results" MODIFIED="1456138744041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="homepage2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/homepage2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="248" column="4" selection-start-line="248" selection-start-column="4" selection-end-line="248" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepage3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/homepage3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5416665">
+              <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project_ctrl.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepage.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/homepage.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.75">
+              <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7108434">
+              <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepage.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/homepage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="Html5" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="leimiaomiao" />
+        <option value="Millie" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../untitled/application/__init__.py" />
+        <option value="$PROJECT_DIR$/../untitled/templates/test.html" />
+        <option value="$PROJECT_DIR$/../untitled/untitled.py" />
+        <option value="$PROJECT_DIR$/../MyFirstFlask/untitled.py" />
+        <option value="$PROJECT_DIR$/../MyFirstFlask/application/__init__.py" />
+        <option value="$PROJECT_DIR$/../MioMio/application/config/database.py" />
+        <option value="$PROJECT_DIR$/../MioMio/application/config/database_config.py" />
+        <option value="$PROJECT_DIR$/../MioMio/web_init.py" />
+        <option value="$PROJECT_DIR$/../MioMio/application/__init__.py" />
+        <option value="$PROJECT_DIR$/../MioMio/application/config/db_config.py" />
+        <option value="$PROJECT_DIR$/../MioMio/application/util/import_util.py" />
+        <option value="$PROJECT_DIR$/../MioMio/static/js/index.js" />
+        <option value="$PROJECT_DIR$/../MioMio/static/css/blur.svg.html" />
+        <option value="$PROJECT_DIR$/../MioMio/static/css/blur.svg" />
+        <option value="$PROJECT_DIR$/../MioMio/application/controller/project_ctrl.py" />
+        <option value="$PROJECT_DIR$/../MioMio/static/css/style.css" />
+        <option value="$PROJECT_DIR$/../MioMio/templates/index.html" />
+        <option value="$PROJECT_DIR$/../QuantumGene/application/config/db_config.py" />
+        <option value="$PROJECT_DIR$/../QuantumGene/templates/homepage.html" />
+        <option value="$PROJECT_DIR$/../QuantumGene/application/controller/project_ctrl.py" />
+        <option value="$PROJECT_DIR$/../QuantumGene/static/css/index.css" />
+        <option value="$PROJECT_DIR$/../QuantumGene/static/css/search-form.css" />
+        <option value="$PROJECT_DIR$/../QuantumGene/web_init.py" />
+        <option value="$PROJECT_DIR$/../QuantumGene/static/css/style.css" />
+        <option value="$PROJECT_DIR$/../QuantumGene/templates/homepage2.html" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/static/css/homepage.css" />
+        <option value="$PROJECT_DIR$/application/controller/project_ctrl.py" />
+        <option value="$PROJECT_DIR$/templates/homepage2.html" />
+        <option value="$PROJECT_DIR$/templates/homepage3.html" />
+        <option value="$PROJECT_DIR$/static/css/homepage.scss" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="748" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leimiaomiao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leimiaomiao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intelligene" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leimiaomiao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intelligene" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leimiaomiao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intelligene" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leimiaomiao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intelligene" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../QuantumGene/static/img" />
+      <recent name="$PROJECT_DIR$/../QuantumGene/templates" />
+      <recent name="$PROJECT_DIR$/../QuantumGene/static/js" />
+      <recent name="$PROJECT_DIR$/../QuantumGene/static/css" />
+      <recent name="$PROJECT_DIR$/../MioMio/static/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../MyFirstFlask" />
+      <recent name="$PROJECT_DIR$/../MyFirstFlask/application" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.web_init (1)">
+    <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyFirstFlask/templates/test.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="untitled (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MyFirstFlask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyFirstFlask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MyFirstFlask/web_init.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="web_init" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MioMio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leimiaomiao" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MioMio/web_init.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="web_init (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Intelligene" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_init.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="untitled" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../untitled/untitled.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.untitled" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      <item index="2" class="java.lang.String" itemvalue="Python.untitled (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.web_init" />
+      <item index="4" class="java.lang.String" itemvalue="Python.web_init (1)" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.web_init (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.web_init" />
+        <item index="2" class="java.lang.String" itemvalue="Python.untitled (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f46c2b98-5c24-440f-bb45-2707b9ab400d" name="Default" comment="" />
+      <created>1445502549212</created>
+      <option name="number" value="Default" />
+      <updated>1445502549212</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Part of version 3 is uploaded.">
+      <created>1456170255462</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1456170255462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="748" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1987076" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29115853" sideWeight="0.50646204" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277439" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18902439" sideWeight="0.49353796" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3246951" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997344" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Part of version 3 is uploaded." />
+    <option name="LAST_COMMIT_MESSAGE" value="Part of version 3 is uploaded." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/css/homepage.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/homepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/homepage2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="231" column="15" selection-start-line="231" selection-start-column="15" selection-end-line="231" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/homepage2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="157" column="1" selection-start-line="130" selection-start-column="0" selection-end-line="157" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="90" selection-start-line="48" selection-start-column="90" selection-end-line="48" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="33" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="33" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/util/import_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6796537">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/lib/bootstrap-3.3.5/dist/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38961038">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/db_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19480519">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/lib/bootstrap-3.3.5/docs/assets/js/customize.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35402298">
+          <caret line="25" column="28490" selection-start-line="25" selection-start-column="28490" selection-end-line="25" selection-end-column="28490" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33274958">
+          <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74786323">
+          <caret line="94" column="1" selection-start-line="68" selection-start-column="0" selection-end-line="94" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/search-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5555556">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/api/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controller/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9122517">
+          <caret line="77" column="36" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/homepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/homepage2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="248" column="4" selection-start-line="248" selection-start-column="4" selection-end-line="248" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/homepage3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5416665">
+          <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/homepage.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.75">
+          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7108434">
+          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

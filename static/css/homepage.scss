@@ -1,0 +1,80 @@
+$ig-blue: rgba(114, 190, 253, 0.8);
+$ig-gray:rgb(38, 38, 38);
+$landing-img: url("../img/background3.png");
+$font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+body {
+  font-family: $font-family;
+}
+
+nav {
+  a {
+    color: rgba(255, 255, 255, 0.5);
+    padding: 5px 0px;
+  }
+
+  a:hover, a.active {
+    color: $ig-blue;
+    border-bottom: solid 1px $ig-blue;
+  }
+  .navbar-nav {
+    float: right;
+  }
+
+}
+
+.landing-page {
+  padding-top: 12rem;
+  padding-bottom: 12rem;
+  margin-bottom: 0;
+  background: $landing-img no-repeat center fixed;
+  background-size: cover;
+  img {
+    width: 60%;
+  }
+  .description1 {
+    font-family: "Avenir Next Ultra Light";
+    font-size: 22px;
+    color: whitesmoke;
+    position: relative;
+    padding-top: 10px;
+  }
+
+  .description2 {
+    font-family: "Helvetica Neue";
+    font-size: 30px;
+    font-weight: 100;
+    color: rgb(128, 132, 143);
+    margin-top: 50px;
+  }
+  .ig-btn-pink {
+    background-color: deeppink;
+    opacity: 0.8;
+    color: white;
+  }
+
+  .ig-btn-pink:hover, .ig-btn-pink.active {
+    opacity: 0.6;
+  }
+}
+
+.services {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  font-family: "Avenir Next Ultra Light";
+  color: rgb(190, 190, 190);
+  background-color: $ig-gray;
+  text-align: center;
+  img {
+    width: 160px;
+  }
+  h3{
+    margin-top: 3rem;
+    font-weight: 500;
+  }
+  p{
+    font-family: "Helvetica Neue";
+    text-align: justify;
+    font-size: 24px;
+    font-weight: 200;
+  }
+}
