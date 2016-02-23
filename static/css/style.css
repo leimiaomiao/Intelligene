@@ -4,12 +4,6 @@ body {
     font-weight: normal;
     background: #fff;
     height: 100%;
-<<<<<<< HEAD
-    width: 100%;
-    overflow: visible;
-=======
-    overflow: inherit;
->>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
 }
 
 .sidebar {
