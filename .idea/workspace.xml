@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="f46c2b98-5c24-440f-bb45-2707b9ab400d" name="Default" comment="Part of version 3 is uploaded.">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/font-awesome-4.5.0/fonts/FontAwesome.otf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/docs/examples/screenshots/album.jpg" />
@@ -458,6 +459,215 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+=======
+    <list default="true" id="f46c2b98-5c24-440f-bb45-2707b9ab400d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/MioMio/static/img/glass.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_panels.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_plugin-selectize.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/js/ripples.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/ripples.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/Material-Design-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/reset-text.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/material.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/roboto.min.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/vendor/holder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_popups.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_variables.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/jquery/jquery-1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/customize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_dialogs.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/roboto.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/material-fullpalette.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/ie10-viewport-bug-workaround.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/src/application.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_mixins-fullpalette.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/material.min.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/roboto.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/RobotoDraftItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/vendor/anchor.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/MioMio/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_plugin-dropdownjs.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/vendor/less.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/material.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/responsive-embed.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/ripples.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/src/customizer.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_welljumbo.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/ripples.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_togglebutton.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/MioMio/static/img/tree.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_colors.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_labels.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/docs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_checkboxes.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/material-fullpalette.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_plugin-nouislider.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/material-fullpalette.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/brand/bootstrap-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_radios.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_icons.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/ripples.min.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/raw-files.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_colors.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/Material-Design-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/ie8-responsive-file-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_lists.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/vendor/uglify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/jquery/jquery-1.11.3.min.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/RobotoDraftMedium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/.csscomb.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/vendor/FileSaver.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/material.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_dividers.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/MioMio/static/img/sunset.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/vendor/Blob.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_plugin-snackbarjs.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/flash/ZeroClipboard.swf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_cards.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/roboto.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/js/ripples.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/ripples.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/type.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/img/sass-less.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/test.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/RobotoDraftBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/ripples.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/brand/bootstrap-punchout.svg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/js/material.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_plugin-dropdownjs.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/roboto.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/material-fullpalette.min.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_icons-material-design.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/brand/bootstrap-solid.svg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/RobotoDraftBold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_progress.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/RobotoDraftRegular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/RobotoDraftMedium.woff" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_mixins.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/material.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/js/ripples.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_shadows.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/vendor/autoprefixer.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_mixins-fullpalette.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/vendor/jszip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/js/material.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/material-fullpalette.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/css/docs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/MioMio/static/img/cat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/css/material.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/vendor/ZeroClipboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/img/components.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/material-fullpalette.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_variables.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/ie-emulation-modes-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/roboto.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/js/material.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/RobotoDraftRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/img/devices.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_inputs.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/Material-Design-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_plugin-selectize.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_tabs.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/RobotoDraftItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/less/_shadows.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/css/src/pygments-manni.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-material-design/dist/fonts/Material-Design-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/css/src/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/variables.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/less/scaffolding.less" />
+      <change type="MOVED" beforePath="$USER_HOME$/PycharmProjects/MioMio/.idea/Leimiaomiao.iml" afterPath="$USER_HOME$/PycharmProjects/Intelligene/.idea/Intelligene.iml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/MioMio/templates/index.html" afterPath="$USER_HOME$/PycharmProjects/MioMio/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Intelligene/.idea/.name" afterPath="$USER_HOME$/PycharmProjects/Intelligene/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Intelligene/application/controller/project_ctrl.py" afterPath="$USER_HOME$/PycharmProjects/Intelligene/application/controller/project_ctrl.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Intelligene/.idea/vcs.xml" afterPath="$USER_HOME$/PycharmProjects/Intelligene/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Intelligene/.idea/modules.xml" afterPath="$USER_HOME$/PycharmProjects/Intelligene/.idea/modules.xml" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -471,11 +681,18 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/Leimiaomiao$web_init.coverage" NAME="web_init Coverage Results" MODIFIED="1449986061947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MioMio" />
     <SUITE FILE_PATH="coverage/Leimiaomiao$web_init__1_.coverage" NAME="web_init (1) Coverage Results" MODIFIED="1456203462401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyFirstFlask$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1445566993315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/MyFirstFlask$untitled__1_.coverage" NAME="untitled (1) Coverage Results" MODIFIED="1449298610665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyFirstFlask" />
     <SUITE FILE_PATH="coverage/MacroGene$web_init__1_.coverage" NAME="web_init (1) Coverage Results" MODIFIED="1456138744041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
+    <SUITE FILE_PATH="coverage/Leimiaomiao$web_init.coverage" NAME="web_init Coverage Results" MODIFIED="1449986061947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/MioMio" />
+    <SUITE FILE_PATH="coverage/MyFirstFlask$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1445566993315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MyFirstFlask$untitled__1_.coverage" NAME="untitled (1) Coverage Results" MODIFIED="1449298610665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/MyFirstFlask" />
+    <SUITE FILE_PATH="coverage/MacroGene$web_init__1_.coverage" NAME="web_init (1) Coverage Results" MODIFIED="1456060037493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Intelligene" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -486,17 +703,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="homepage2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/homepage2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125">
               <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
               <folding />
+=======
+      <file leaf-file-name="homepage2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/templates/homepage2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6456954">
+              <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -511,46 +744,86 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-6.5416665">
               <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+=======
+        <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.444445">
+              <caret line="102" column="6" selection-start-line="102" selection-start-column="6" selection-end-line="102" selection-end-column="6" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="project_ctrl.py" pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
               <folding />
+=======
+        <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/controller/project_ctrl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="homepage.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/homepage.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-13.75">
               <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+=======
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.7108434">
               <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+=======
+      <file leaf-file-name="web_init.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/web_init.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="homepage.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/homepage.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+=======
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/api/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
               <folding />
             </state>
           </provider>
@@ -570,6 +843,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="leimiaomiao" />
@@ -578,10 +852,15 @@
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+=======
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/PycharmProjects/MioMio" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/../untitled/application/__init__.py" />
         <option value="$PROJECT_DIR$/../untitled/templates/test.html" />
         <option value="$PROJECT_DIR$/../untitled/untitled.py" />
@@ -614,6 +893,35 @@
         <option value="$PROJECT_DIR$/templates/homepage3.html" />
         <option value="$PROJECT_DIR$/static/css/homepage.scss" />
         <option value="$PROJECT_DIR$/.gitignore" />
+=======
+        <option value="$USER_HOME$/PycharmProjects/untitled/application/__init__.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/templates/test.html" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/untitled.py" />
+        <option value="$USER_HOME$/PycharmProjects/MyFirstFlask/untitled.py" />
+        <option value="$USER_HOME$/PycharmProjects/MyFirstFlask/application/__init__.py" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/application/config/database.py" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/application/config/database_config.py" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/web_init.py" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/application/__init__.py" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/application/config/db_config.py" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/application/util/import_util.py" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/static/js/index.js" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/static/css/blur.svg.html" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/static/css/blur.svg" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/application/controller/project_ctrl.py" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/static/css/style.css" />
+        <option value="$USER_HOME$/PycharmProjects/MioMio/templates/index.html" />
+        <option value="$USER_HOME$/PycharmProjects/QuantumGene/application/config/db_config.py" />
+        <option value="$USER_HOME$/PycharmProjects/QuantumGene/templates/homepage.html" />
+        <option value="$USER_HOME$/PycharmProjects/QuantumGene/application/controller/project_ctrl.py" />
+        <option value="$USER_HOME$/PycharmProjects/QuantumGene/static/css/index.css" />
+        <option value="$USER_HOME$/PycharmProjects/QuantumGene/static/css/search-form.css" />
+        <option value="$USER_HOME$/PycharmProjects/QuantumGene/web_init.py" />
+        <option value="$USER_HOME$/PycharmProjects/QuantumGene/static/css/style.css" />
+        <option value="$USER_HOME$/PycharmProjects/QuantumGene/templates/homepage2.html" />
+        <option value="$USER_HOME$/PycharmProjects/Intelligene/static/css/style.css" />
+        <option value="$USER_HOME$/PycharmProjects/Intelligene/templates/homepage2.html" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       </list>
     </option>
   </component>
@@ -651,14 +959,18 @@
       <sortByType />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope">
         <subPane subId="Project Files" />
       </pane>
       <pane id="Scratches" />
+=======
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Leimiaomiao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
@@ -666,6 +978,9 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Leimiaomiao" />
+=======
+              <option name="myItemId" value="MacroGene" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -673,6 +988,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Leimiaomiao" />
@@ -725,11 +1041,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/Documents" />
+=======
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Intelligene/web_init.py" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
     <property name="recentsLimit" value="5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+=======
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -737,6 +1067,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="$PROJECT_DIR$/../QuantumGene/static/img" />
       <recent name="$PROJECT_DIR$/../QuantumGene/templates" />
       <recent name="$PROJECT_DIR$/../QuantumGene/static/js" />
@@ -746,6 +1077,17 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../MyFirstFlask" />
       <recent name="$PROJECT_DIR$/../MyFirstFlask/application" />
+=======
+      <recent name="$USER_HOME$/PycharmProjects/QuantumGene/static/img" />
+      <recent name="$USER_HOME$/PycharmProjects/QuantumGene/templates" />
+      <recent name="$USER_HOME$/PycharmProjects/QuantumGene/static/js" />
+      <recent name="$USER_HOME$/PycharmProjects/QuantumGene/static/css" />
+      <recent name="$USER_HOME$/PycharmProjects/MioMio/static/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/PycharmProjects/MyFirstFlask" />
+      <recent name="$USER_HOME$/PycharmProjects/MyFirstFlask/application" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
     </key>
   </component>
   <component name="RunManager" selected="Python.web_init (1)">
@@ -759,13 +1101,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MyFirstFlask" />
+=======
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/MyFirstFlask" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MyFirstFlask" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MyFirstFlask/web_init.py" />
+=======
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/MyFirstFlask/web_init.py" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -777,13 +1127,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MioMio" />
+=======
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/MioMio" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leimiaomiao" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MioMio/web_init.py" />
+=======
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/MioMio/web_init.py" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -795,13 +1153,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+=======
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Intelligene" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Intelligene" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_init.py" />
+=======
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Intelligene/web_init.py" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -1007,14 +1373,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../untitled/untitled.py" />
+=======
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/untitled/untitled.py" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <list size="5">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Python.untitled" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      <item index="1" class="java.lang.String" itemvalue="Python.untitled" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <item index="2" class="java.lang.String" itemvalue="Python.untitled (1)" />
       <item index="3" class="java.lang.String" itemvalue="Python.web_init" />
       <item index="4" class="java.lang.String" itemvalue="Python.web_init (1)" />
@@ -1042,6 +1417,7 @@
       <option name="number" value="Default" />
       <updated>1445502549212</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="Part of version 3 is uploaded.">
       <created>1456170255462</created>
       <option name="number" value="00001" />
@@ -1049,12 +1425,15 @@
       <updated>1456170255462</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="748" extended-state="0" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1987076" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29115853" sideWeight="0.50646204" order="7" side_tool="true" content_ui="tabs" />
@@ -1069,6 +1448,21 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997344" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2819063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17682926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997344" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1088,15 +1482,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Part of version 3 is uploaded." />
     <option name="LAST_COMMIT_MESSAGE" value="Part of version 3 is uploaded." />
   </component>
+=======
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/static/css/homepage.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1145,6 +1543,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/style.css">
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/templates/homepage2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="157" column="1" selection-start-line="130" selection-start-column="0" selection-end-line="157" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/css/style.css">
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
@@ -1152,6 +1575,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1301,62 +1725,279 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/__init__.py">
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/templates/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/templates/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="90" selection-start-line="48" selection-start-column="90" selection-end-line="48" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="33" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="33" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/__init__.py">
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/config/__init__.py">
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/config/__init__.py">
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/util/import_util.py">
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/util/import_util.py">
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6796537">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/css/bootstrap.min.css">
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/static/lib/bootstrap-3.3.5/dist/js/npm.js">
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/dist/js/npm.js">
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38961038">
           <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/config/db_config.py">
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/config/db_config.py">
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19480519">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/static/css/animate.css">
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/css/animate.css">
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/static/js/bootstrap.js">
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/js/bootstrap.js">
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/static/lib/bootstrap-3.3.5/docs/assets/js/customize.min.js">
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/lib/bootstrap-3.3.5/docs/assets/js/customize.min.js">
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35402298">
           <caret line="25" column="28490" selection-start-line="25" selection-start-column="28490" selection-end-line="25" selection-end-column="28490" />
@@ -1367,6 +2008,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33274958">
           <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -1409,10 +2051,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+=======
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74786323">
+          <caret line="94" column="1" selection-start-line="68" selection-start-column="0" selection-end-line="94" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/templates/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6150442">
+          <caret line="77" column="36" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/css/search-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5555556">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/api/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/templates/homepage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.9122517">
@@ -1421,6 +2098,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/lib/bootstrap-4.0.0-alpha.2/dist/css/bootstrap.min.css">
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/controller/__init__.py">
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1428,6 +2108,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/static/css/homepage.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1440,18 +2121,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125">
           <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/controller/project_ctrl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/web_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1464,23 +2159,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.5416665">
           <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/application/controller/project_ctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.444445">
+          <caret line="102" column="6" selection-start-line="102" selection-start-column="6" selection-end-line="102" selection-end-column="6" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/static/css/homepage.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.75">
           <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7108434">
           <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
           <folding />
+=======
+    <entry file="file://$USER_HOME$/PycharmProjects/Intelligene/templates/homepage2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6456954">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
         </state>
       </provider>
     </entry>

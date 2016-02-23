@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Intelligene.iml" filepath="$PROJECT_DIR$/.idea/Intelligene.iml" />
+=======
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Intelligene/.idea/Intelligene.iml" filepath="$USER_HOME$/PycharmProjects/Intelligene/.idea/Intelligene.iml" />
+>>>>>>> 4f416b02a5b308c783dbdf0513069ed80be0de23
     </modules>
   </component>
 </project>
