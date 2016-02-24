@@ -18,15 +18,16 @@
             &#9776;
         </button>
         <div class="nav navbar-nav collapse navbar-toggleable-xs" id="collapsingNavbar">
-            <a class="nav-item nav-link active" href="#"><i class="fa fa-modx"> Home</i></a>
-            <a class="nav-item nav-link" href="#"><i class="fa"> Services</i></a>
-            <a class="nav-item nav-link" href="#"><i class="fa"> Our Story</i></a>
-            <a class="nav-item nav-link" href="#"><i class="fa"> Contact</i></a>
+            <a class="nav-item nav-link active" href="#home"><i class="fa fa-modx"> Home</i></a>
+            <a class="nav-item nav-link" href="#story"><i class="fa"> Our Story</i></a>
+            <a class="nav-item nav-link" href="#services"><i class="fa"> Services</i></a>
+            <a class="nav-item nav-link" href="#feature1"><i class="fa"> Relevance</i></a>
+            <a class="nav-item nav-link" href="#contact"><i class="fa"> Contact Us</i></a>
         </div>
     </div>
 </nav>
 
-<section class="landing-page">
+<section class="landing-page" id="home">
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
@@ -57,7 +58,7 @@
     </div>
     </div>
 </section>
-<section class="introduction">
+<section class="introduction" id="story">
     <div class="container">
         <div class="col-md-10 col-md-offset-1">
             <img src="/img/intro-logo.png" alt="Intelligene Introduction Logo">
@@ -76,7 +77,7 @@
     </div>
 </section>
 
-<section class="feature">
+<section class="feature" id="services">
     <div class="container">
         <div class="row text">
             <div class="col-lg-4">
@@ -119,7 +120,7 @@
     </div>
 </section>
 
-<section class="feature" style="margin-bottom: 60px">
+<section class="feature" style="margin-bottom: 60px" id="feature1">
     <div class="container">
         <div class="row">
             <div class="col-md-5 col-sm-12">
@@ -147,7 +148,7 @@
         </div>
     </div>
 </section>
-<section id="footer">
+<section class="footer" id="contact">
     <div class="container">
         <div class="col-sm-12">
             <p class="text-center">
@@ -167,4 +168,47 @@
 </body>
 <script type="application/javascript" src="/lib/jquery/jquery-1.11.3.min.js"></script>
 <script type="application/javascript" src="/lib/bootstrap-4.0.0-alpha.2/dist/js/bootstrap.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(document).on("scroll", onScroll);
+
+        $('.nav a[href^="#"]').on('click', function (e) {
+            e.preventDefault();
+            $(document).off("scroll");
+
+            $(".nav a").each(function () {
+                $(this).removeClass('active');
+            })
+            $(this).addClass('active');
+
+            var target = this.hash,
+                    $target = $(target);
+            $('html, body').stop().animate({
+                'scrollTop': $target.offset().top
+            }, 1000, 'swing', function () {
+                window.location.hash = target;
+                $(document).on("scroll", onScroll);
+            });
+        });
+    });
+
+    function onScroll(e) {
+        var scrollPos = $(document).scrollTop();
+        $('.nav a').each(function () {
+                    var currLink = $(this);
+                    var href = currLink.attr("href");
+                    var refElement = $(href);
+                    if (refElement.position().top <= scrollPos + 300
+                            && refElement.position().top + refElement.height() > scrollPos + 300) {
+                        $('.nav a').removeClass("active");
+                        currLink.addClass("active");
+                    }
+                    else {
+                        currLink.removeClass("active");
+                    }
+                }
+        )
+        ;
+    }
+</script>
 </html>

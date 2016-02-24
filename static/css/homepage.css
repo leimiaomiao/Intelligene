@@ -93,11 +93,11 @@ nav .navbar-nav {
     .feature .description .number {
       font-size: 56px; }
 
-#footer {
+.footer {
   text-align: center;
   padding-top: 30px;
   background: #262626; }
-  #footer a {
+  .footer a {
     color: rgba(40, 181, 201, 0.8); }
 
 /*# sourceMappingURL=homepage.css.map */
