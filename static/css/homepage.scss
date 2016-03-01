@@ -1,6 +1,6 @@
-$ig-blue: rgba(40, 181, 201, 0.8);
+$ig-blue: rgba(40, 181, 201, 1);
 $ig-gray: rgb(38, 38, 38);
-$landing-img: url("../img/background3.png");
+$landing-img: url("../img/background6.png");
 $font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
 body {
   font-family: $font-family;
@@ -8,7 +8,7 @@ body {
 
 nav {
   a {
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(40, 181, 201, 0.5);
     padding: 5px 0px;
   }
 
@@ -84,7 +84,7 @@ nav {
 
 .feature {
   color: gray;
-  padding-top: 30px;
+  padding-top: 60px;
   .text {
     text-align: center;
 

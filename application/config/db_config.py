@@ -2,6 +2,6 @@ __author__ = 'leimiaomiao'
 
 DEBUG = True
 DATABASE_SERVER = 'localhost'
-DATABASE = 'quantumgene'
-PORT = 8080
+DATABASE = 'MacroGene'
+PORT = 8000
 HOST = 'localhost'
