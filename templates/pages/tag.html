@@ -11,8 +11,8 @@
         <tr>
             <td>#</td>
             <td>PubMedID</td>
-            <td>Title</td>
             <td>Tag</td>
+            <td>Title</td>
         </tr>
         {% for article in articles %}
             <tr>
@@ -20,11 +20,12 @@
                 <td><a target="_blank"
                        href="http://www.ncbi.nlm.nih.gov/pubmed/?term={{ article.pubMed_id }}">{{ article.pubMed_id }}</a>
                 </td>
-                <td>{{ article.title }}</td>
                 <td>
                     <a class="btn btn-sm {% if article.pubMed_id in tagged_id_list %}btn-success {% else %}btn-primary{% endif %}"
                        data-toggle="modal" id="{{ article.pubMed_id }}"
                        data-target="#myModal" data-id="{{ article.pubMed_id }}">TAG</a></td>
+                <td>{{ article.title }}</td>
+
             </tr>
         {% endfor %}
     </table>

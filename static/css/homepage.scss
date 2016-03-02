@@ -1,20 +1,23 @@
 $ig-blue: rgba(40, 181, 201, 1);
 $ig-gray: rgb(38, 38, 38);
-$landing-img: url("../img/background6.png");
+$ig-black: rgb(39, 39, 39);
+$ig-blue-primary: rgb(2, 117, 219);
+$landing-img: url("../img/background7.png");
 $font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
 body {
   font-family: $font-family;
 }
 
 nav {
+  background-color: rgba(0, 0, 0, 0.3);
   a {
-    color: rgba(40, 181, 201, 0.5);
+    color: rgba(90, 90, 90, 0.5);
     padding: 5px 0px;
   }
 
   a:hover, a.active {
-    color: $ig-blue;
-    border-bottom: solid 1px $ig-blue;
+    color: $ig-blue-primary;
+    //border-bottom: solid 1px $ig-blue;
   }
   .navbar-nav {
     float: right;
@@ -23,25 +26,26 @@ nav {
 }
 
 .landing-page {
+  min-height: 100vh;
   padding-top: 12rem;
   padding-bottom: 12rem;
   margin-bottom: 0;
-  background: $landing-img no-repeat center fixed;
+  background: $landing-img no-repeat fixed;
   background-size: cover;
   img {
-    width: 60%;
+    width: 25%;
   }
   .description1 {
-    font-family: "Avenir Next Ultra Light";
-    font-size: 22px;
+    font-family: "Avenir Next";
+    font-size: 44px;
     color: whitesmoke;
     position: relative;
-    padding-top: 10px;
+    padding-top: 50px;
   }
 
   .description2 {
     font-family: "Helvetica Neue";
-    font-size: 30px;
+    font-size: 26px;
     font-weight: 100;
     color: rgb(128, 132, 143);
     margin-top: 50px;
@@ -60,8 +64,9 @@ nav {
 .introduction {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  font-family: "Avenir Next Ultra Light";
-  background-color: $ig-gray;
+  font-family: "Avenir Next";
+  background: $landing-img;
+  color: white;
   text-align: center;
   img {
     width: 160px;
@@ -70,10 +75,9 @@ nav {
     margin-top: 3rem;
     font-weight: 500;
     font-size: 36px;
-    color: rgb(190, 190, 190);
+    padding-bottom: 10px;
   }
   p {
-    font-family: "Helvetica Neue";
     text-align: justify;
     font-size: 24px;
     font-weight: 200;
@@ -86,22 +90,32 @@ nav {
   color: gray;
   padding-top: 60px;
   .text {
+    font-family: "Helvetica Neue";
     text-align: center;
 
     h2 {
       font-size: 30px;
-      font-weight: 200;
+      font-weight: 500;
       margin-top: 30px;
     }
     a {
       color: $ig-blue;
+    }
+
+    p{
+      font-size: 22px;
+      font-weight: 200;
+    }
+    .container{
+      border: solid 1px rgba(255,255,255,0.6);
+      padding-top: 20px;
     }
   }
   img.symbol {
     width: 100%;
   }
   h3 {
-    font-family: "Helvetica Neue";
+    font-family: "Avenir Next";
     font-size: 34px;
     font-weight: 100;
     color: rgb(127, 127, 127);
@@ -109,9 +123,9 @@ nav {
   }
 
   h2 {
-    font-family: "Avenir Next Ultra Light";
+    font-family: "Avenir Next";
     font-size: 44px;
-    font-weight: bolder;
+    font-weight: 500;
     color: rgb(89, 89, 89);
   }
 
@@ -120,7 +134,7 @@ nav {
     line-height: 150%;
     font-size: 30px;
     color: rgb(89, 89, 89);
-    margin-top: 100px;
+    margin-top: 70px;
     font-weight: 100;
 
     p {
@@ -133,11 +147,11 @@ nav {
   }
 }
 
-.footer{
+.footer {
   text-align: center;
   padding-top: 30px;
-  a{
-    color: $ig-blue;
+  a {
+    color: $ig-blue-primary;
   }
-  background: $ig-gray;
+  background: $landing-img bottom;
 }
