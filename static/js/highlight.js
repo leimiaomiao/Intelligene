@@ -1,107 +1,39 @@
-/**
- * Created by leimiaomiao on 3/1/16.
- */
-// Original JavaScript code by Chirp Internet: www.chirp.com.au
-// Please acknowledge use of this code by including this header.
-
-function Hilitor(id, tag)
-{
-
-  var targetNode = document.getElementById(id) || document.body;
-  var hiliteTag = tag || "EM";
-  var skipTags = new RegExp("^(?:" + hiliteTag + "|SCRIPT|FORM|SPAN)$");
-  var colors = ["#ff6", "#a0ffff", "#9f9", "#f99", "#f6f"];
-  var wordColor = [];
-  var colorIdx = 0;
-  var matchRegex = "";
-  var openLeft = false;
-  var openRight = false;
-
-  this.setMatchType = function(type)
-  {
-    switch(type)
-    {
-      case "left":
-        this.openLeft = false;
-        this.openRight = true;
-        break;
-      case "right":
-        this.openLeft = true;
-        this.openRight = false;
-        break;
-      case "open":
-        this.openLeft = this.openRight = true;
-        break;
-      default:
-        this.openLeft = this.openRight = false;
-    }
-  };
-
-  this.setRegex = function(input)
-  {
-    input = input.replace(/^[^\w]+|[^\w]+$/g, "").replace(/[^\w'-]+/g, "|");
-    var re = "(" + input + ")";
-    if(!this.openLeft) re = "\\b" + re;
-    if(!this.openRight) re = re + "\\b";
-    matchRegex = new RegExp(re, "i");
-  };
-
-  this.getRegex = function()
-  {
-    var retval = matchRegex.toString();
-    retval = retval.replace(/(^\/(\\b)?|\(|\)|(\\b)?\/i$)/g, "");
-    retval = retval.replace(/\|/g, " ");
-    return retval;
-  };
-
-  // recursively apply word highlighting
-  this.hiliteWords = function(node)
-  {
-    if(node === undefined || !node) return;
-    if(!matchRegex) return;
-    if(skipTags.test(node.nodeName)) return;
-
-    if(node.hasChildNodes()) {
-      for(var i=0; i < node.childNodes.length; i++)
-        this.hiliteWords(node.childNodes[i]);
-    }
-    if(node.nodeType == 3) { // NODE_TEXT
-      if((nv = node.nodeValue) && (regs = matchRegex.exec(nv))) {
-        if(!wordColor[regs[0].toLowerCase()]) {
-          wordColor[regs[0].toLowerCase()] = colors[colorIdx++ % colors.length];
+jQuery.fn.highlight = function (pat) {
+    function innerHighlight(node, pat) {
+        var skip = 0;
+        if (node.nodeType == 3) {
+            var pos = node.data.toUpperCase().indexOf(pat);
+            pos -= (node.data.substr(0, pos).toUpperCase().length - node.data.substr(0, pos).length);
+            if (pos >= 0) {
+                var spannode = document.createElement('span');
+                spannode.className = 'highlight';
+                var middlebit = node.splitText(pos);
+                var endbit = middlebit.splitText(pat.length);
+                var middleclone = middlebit.cloneNode(true);
+                spannode.appendChild(middleclone);
+                middlebit.parentNode.replaceChild(spannode, middlebit);
+                skip = 1;
+            }
         }
-
-        var match = document.createElement(hiliteTag);
-        match.appendChild(document.createTextNode(regs[0]));
-        match.style.backgroundColor = wordColor[regs[0].toLowerCase()];
-        match.style.fontStyle = "inherit";
-        match.style.color = "#000";
-
-        var after = node.splitText(regs.index);
-        after.nodeValue = after.nodeValue.substring(regs[0].length);
-        node.parentNode.insertBefore(match, after);
-      }
-    };
-  };
-
-  // remove highlighting
-  this.remove = function()
-  {
-    var arr = document.getElementsByTagName(hiliteTag);
-    while(arr.length && (el = arr[0])) {
-      var parent = el.parentNode;
-      parent.replaceChild(el.firstChild, el);
-      parent.normalize();
+        else if (node.nodeType == 1 && node.childNodes && !/(script|style)/i.test(node.tagName)) {
+            for (var i = 0; i < node.childNodes.length; ++i) {
+                i += innerHighlight(node.childNodes[i], pat);
+            }
+        }
+        return skip;
     }
-  };
 
-  // start highlighting at target node
-  this.apply = function(input)
-  {
-    this.remove();
-    if(input === undefined || !input) return;
-    this.setRegex(input);
-    this.hiliteWords(targetNode);
-  };
+    return this.length && pat && pat.length ? this.each(function () {
+        innerHighlight(this, pat.toUpperCase());
+    }) : this;
+};
 
-}
+jQuery.fn.removeHighlight = function () {
+    return this.find("span.highlight").each(function () {
+        this.parentNode.firstChild.nodeName;
+        with (this.parentNode) {
+            replaceChild(this.firstChild, this);
+            normalize();
+        }
+    }).end();
+};

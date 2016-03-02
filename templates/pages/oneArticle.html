@@ -2,6 +2,10 @@
     #table td {
         border-top: none;
     }
+
+    .highlight {
+        background-color: yellow;
+    }
 </style>
 <form action="/tag" method="post" id="modal-form">
     <div class="modal-header">
@@ -41,32 +45,3 @@
         </table>
     </div>
 </form>
-
-<script type="application/javascript" src="/js/highlight.js"></script>
-<script type="application/javascript">
-    $("#modal-form").on({
-        'submit': function (e) {
-            $.ajax({
-                url: "/tag",
-                method: "post",
-                dataType: 'json',
-                data: $("#modal-form").serialize(),
-                success: function (response) {
-                    var pubmed_id = response.data.id;
-                    $("#" + pubmed_id).html(response.data.category);
-                    $("#" + pubmed_id).removeClass("btn-primary").addClass("btn-success");
-                    $('#myModal').modal('hide');
-                }
-            })
-            e.preventDefault();
-        }
-    })
-
-{#    $("#terms").on({#}
-{#        'keyup': function (e) {#}
-{#            console.log($("#terms").val())#}
-{#            var myHilitor = new Hilitor("#abstract");#}
-{#            myHilitor.apply($("#terms").val());#}
-{#        }#}
-{#    })#}
-</script>

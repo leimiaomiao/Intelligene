@@ -28,7 +28,7 @@ def tag():
         result = ArticleApi.create_tag(_id, terms, general, category)
         return jsonify(
             data={
-                "id":_id,
+                "id": _id,
                 "category": category
             }
         )

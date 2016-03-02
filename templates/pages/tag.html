@@ -22,7 +22,7 @@
                 </td>
                 <td>{{ article.title }}</td>
                 <td>
-                    <a class="btn btn-sm btn-primary"
+                    <a class="btn btn-sm {% if article.pubMed_id in tagged_id_list %}btn-success {% else %}btn-primary{% endif %}"
                        data-toggle="modal" id="{{ article.pubMed_id }}"
                        data-target="#myModal" data-id="{{ article.pubMed_id }}">TAG</a></td>
             </tr>
@@ -52,9 +52,28 @@
                             $(_this).find('.modal-content').html(response.data).parent().fadeIn(300);
                         }
                     })
+                },
+                'shown.bs.modal': function (evt) {
+                    var _this = this;
+                    $(_this).find("#modal-form").on({
+                        'submit': function (e) {
+                            $.ajax({
+                                url: "/tag",
+                                method: "post",
+                                dataType: 'json',
+                                data: $("#modal-form").serialize(),
+                                success: function (response) {
+                                    var pubmed_id = response.data.id;
+                                    //$("#" + pubmed_id).html(response.data.category);
+                                    $("#" + pubmed_id).removeClass("btn-primary").addClass("btn-success");
+                                    $("#myModal").modal('hide');
+                                }
+                            })
+                            e.preventDefault();
+                        }
+                    })
                 }
             }
     )
-
 </script>
 </html>
