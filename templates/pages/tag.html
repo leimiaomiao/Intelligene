@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Category Tag Tool</title>
-    <link rel="stylesheet" href="lib/bootstrap-4.0.0-alpha.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/lib/bootstrap-4.0.0-alpha.2/dist/css/bootstrap.min.css">
 </head>
 <body>
 <div class="container">
@@ -23,7 +23,7 @@
                 <td>
                     <a class="btn btn-sm {% if article.pubMed_id in tagged_id_list %}btn-success {% else %}btn-primary{% endif %}"
                        data-toggle="modal" id="{{ article.pubMed_id }}"
-                       data-target="#myModal" data-id="{{ article.pubMed_id }}">TAG</a></td>
+                       data-target="#{{ target_modal }}" data-id="{{ article.pubMed_id }}">TAG</a></td>
                 <td>{{ article.title }}</td>
 
             </tr>
@@ -31,7 +31,14 @@
     </table>
 </div>
 
-<div class="modal fade modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal fade modal" id="wordModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+
+<div class="modal fade modal" id="sentenceModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
         </div>
@@ -39,10 +46,10 @@
 </div>
 
 </body>
-<script type="application/javascript" src="lib/jquery/jquery-1.11.3.min.js"></script>
+<script type="application/javascript" src="/lib/jquery/jquery-1.11.3.min.js"></script>
 <script src="/lib/bootstrap-3.3.5/dist/js/bootstrap.min.js"></script>
 <script type="application/javascript">
-    $("#myModal").on({
+    $("#wordModal").on({
                 'show.bs.modal': function (evt) {
                     var _this = this;
                     $.ajax({
@@ -56,7 +63,7 @@
                 },
                 'shown.bs.modal': function (evt) {
                     var _this = this;
-                    $(_this).find("#modal-form").on({
+                    $(_this).find("form").on({
                         'submit': function (e) {
                             $.ajax({
                                 url: "/tag",
@@ -65,16 +72,50 @@
                                 data: $("#modal-form").serialize(),
                                 success: function (response) {
                                     var pubmed_id = response.data.id;
-                                    //$("#" + pubmed_id).html(response.data.category);
                                     $("#" + pubmed_id).removeClass("btn-primary").addClass("btn-success");
-                                    $("#myModal").modal('hide');
+                                    $("#wordModal").modal('hide');
                                 }
-                            })
-                            e.preventDefault();
+                            });
+                            return false;
                         }
                     })
                 }
             }
     )
+
+    $("#sentenceModal").on({
+        'show.bs.modal': function (evt) {
+            var _this = this;
+            $.ajax({
+                url: "/tag/sentence/" + $(evt.relatedTarget).data('id'),
+                method: 'get',
+                dataType: 'json',
+                success: function (response) {
+                    $(_this).find('.modal-content').html("")
+                    $(_this).find('.modal-content').html(response.data).parent().fadeIn(300);
+                }
+            })
+        },
+
+        'shown.bs.modal': function (evt) {
+            var _this = this;
+            $(_this).find("form").on({
+                'submit': function (e) {
+                    $.ajax({
+                        url: "/tag/sentence/" + $(evt.relatedTarget).data('id'),
+                        method: "post",
+                        dataType: 'json',
+                        data: $("#modal-form").serialize(),
+                        success: function (response) {
+                            var pubmed_id = response.data.id;
+                            $("#" + pubmed_id).removeClass("btn-primary").addClass("btn-success");
+                            $("#sentenceModal").modal('hide');
+                        }
+                    });
+                    return false;
+                }
+            })
+        }
+    })
 </script>
 </html>

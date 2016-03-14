@@ -31,7 +31,7 @@ class ArticleApi(AbstractApi):
         return abstract if abstract is not None else cls.rtrv_one_article(**kwargs)
 
     @classmethod
-    def create_tag(cls, _id, terms, general, category):
+    def create_tag(cls, _id, terms, general, category, key_sentence_list=[]):
         article = cls.rtrv_one_article(pubMed_id=_id)
         abstract = cls.rtrv_one_abstract(pubMed_id=_id)
         if abstract is None:
@@ -42,7 +42,8 @@ class ArticleApi(AbstractApi):
                     abstract=article.abstract,
                     terms=terms,
                     generals=general,
-                    category=category
+                    category=category,
+                    key_sentence_list=key_sentence_list
                 )
                 abstractTag.save()
                 return True
@@ -50,6 +51,27 @@ class ArticleApi(AbstractApi):
             abstract.terms = terms
             abstract.generals = general
             abstract.category = category
+            abstract.key_sentence_list = key_sentence_list
+            abstract.save()
+            return True
+        return False
+
+    @classmethod
+    def create_tag_sentence(cls, _id, key_sentence_list=[]):
+        article = cls.rtrv_one_article(pubMed_id=_id)
+        abstract = cls.rtrv_one_abstract(pubMed_id=_id)
+        if abstract is None:
+            if article is not None:
+                abstractTag = AbstractTag(
+                    pubMed_id=_id,
+                    title=article.title,
+                    abstract=article.abstract,
+                    key_sentence_list=key_sentence_list
+                )
+                abstractTag.save()
+                return True
+        else:
+            abstract.key_sentence_list = key_sentence_list
             abstract.save()
             return True
         return False
@@ -59,5 +81,10 @@ class ArticleApi(AbstractApi):
         articles = AbstractTag.objects()
         id_list = []
         for article in articles:
-            id_list.append(long(article.pubMed_id))
+            id_list.append(int(article.pubMed_id))
         return id_list
+
+    @classmethod
+    def rtrv_tagged_sentence_list(cls, _id):
+        abstract_tag = cls.rtrv_one_abstract(pubMed_id=_id)
+        return abstract_tag.key_sentence_list if abstract_tag is not None else []

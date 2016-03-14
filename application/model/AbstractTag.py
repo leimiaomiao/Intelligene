@@ -11,3 +11,4 @@ class AbstractTag(DynamicDocument):
     terms = StringField()
     generals = StringField()
     category = StringField()
+    key_sentence_list = ListField()
