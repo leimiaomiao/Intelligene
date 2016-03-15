@@ -87,4 +87,8 @@ class ArticleApi(AbstractApi):
     @classmethod
     def rtrv_tagged_sentence_list(cls, _id):
         abstract_tag = cls.rtrv_one_abstract(pubMed_id=_id)
-        return abstract_tag.key_sentence_list if abstract_tag is not None else []
+        sentence_list = []
+        if abstract_tag is not None:
+            for s in abstract_tag.key_sentence_list:
+                sentence_list.append(s.rstrip())
+        return sentence_list

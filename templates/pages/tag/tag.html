@@ -16,7 +16,7 @@
         </tr>
         {% for article in articles %}
             <tr>
-                <td>{{ loop.index }}</td>
+                <td>{{ (current_page-1)*100+loop.index }}</td>
                 <td><a target="_blank"
                        href="http://www.ncbi.nlm.nih.gov/pubmed/?term={{ article.pubMed_id }}">{{ article.pubMed_id }}</a>
                 </td>
@@ -29,6 +29,12 @@
             </tr>
         {% endfor %}
     </table>
+    <div class="row">
+        <div class="col-md-6"><a {% if current_page - 1 > 0 %} href="/tag/sentence/{{ current_page - 1 }} {% endif %}"
+                class="btn btn-info btn-block">上一页</a></div>
+        <div class="col-md-6"><a href="/tag/sentence/{{ current_page + 1 }}" class="btn btn-info btn-block">再来一百!</a>
+        </div>
+    </div>
 </div>
 
 <div class="modal fade modal" id="wordModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -87,7 +93,7 @@
         'show.bs.modal': function (evt) {
             var _this = this;
             $.ajax({
-                url: "/tag/sentence/" + $(evt.relatedTarget).data('id'),
+                url: "/tag/sentence/id/" + $(evt.relatedTarget).data('id'),
                 method: 'get',
                 dataType: 'json',
                 success: function (response) {
@@ -102,7 +108,7 @@
             $(_this).find("form").on({
                 'submit': function (e) {
                     $.ajax({
-                        url: "/tag/sentence/" + $(evt.relatedTarget).data('id'),
+                        url: "/tag/sentence/id/" + $(evt.relatedTarget).data('id'),
                         method: "post",
                         dataType: 'json',
                         data: $("#modal-form").serialize(),
