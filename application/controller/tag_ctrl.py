@@ -28,7 +28,7 @@ def tag():
 
 @app.route('/tag/sentence/<page>', methods=['GET'])
 def tag_sentence(page):
-    articles = ArticleApi.rtrv_by_range(1091 + (int(page) - 1) * 100, 1091 + int(page) * 100)
+    articles = ArticleApi.rtrv_by_range(1091 + (int(page) - 1) * 50, 1091 + int(page) * 50)
     tagged_id_list = ArticleApi.rtrv_all_tagged_articles()
     return render_template("pages/tag/tag.html", articles=articles, tagged_id_list=tagged_id_list,
                            target_modal="sentenceModal", current_page=int(page))
@@ -40,7 +40,6 @@ def tag_one_sentence(_id):
         article = ArticleApi.rtrv_one(pubMed_id=_id)
         abstract = article.abstract
         tagged_sentence_list = ArticleApi.rtrv_tagged_sentence_list(_id)
-        print(tagged_sentence_list)
 
         sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
         sentences = [s.rstrip() for s in sent_detector.tokenize(abstract)]
